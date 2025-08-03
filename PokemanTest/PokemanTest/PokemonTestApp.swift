@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct PokemanTestApp: App {
+struct PokemonTestApp: App {
     let container = AppDIContainer()
     var body: some Scene {
         WindowGroup {
